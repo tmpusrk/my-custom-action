@@ -1,0 +1,8 @@
+name: My Custom Action 2025
+description: My first super cool custom github action
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+branding:
+  icon: 'coffee'
+  color: 'green'
